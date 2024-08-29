@@ -6,31 +6,6 @@ Welcome to the **QuantumChemistryEducation** repository! This repository is a co
 
 This repository includes Jupyter Notebooks, Python scripts, and related files covering various topics in quantum and computational chemistry:
 
-[comment]: <> ### Notebooks by Topic
-
-[comment]: <> 1. **Introduction to Quantum Chemistry**
-[comment]: <>    - Fundamental concepts: Schrödinger Equation, Particle in a Box, Harmonic Oscillator, etc.
-[comment]: <>    - Potential Energy Surfaces (PES) and their importance in chemistry.
-
-[comment]: <> 2. **Computational Methods and Tools**
-[comment]: <>    - Density Functional Theory (DFT) vs. Wavefunction Theory (WFT) (e.g., Hartree-Fock, MP2).
-[comment]: <>    - Basis sets and their impact on computational results.
-[comment]: <>    - Introduction to quantum chemistry software (e.g., Psi4, Gaussian, ORCA, Q-Chem, PySCF).
-
-[comment]: <> 3. **Advanced Quantum Chemistry**
-[comment]: <>    - Post-Hartree-Fock methods (e.g., MP2, CCSD(T), CASSCF).
-[comment]: <>    - Time-Dependent DFT (TD-DFT) and modeling excited states.
-[comment]: <>    - Quantum Monte Carlo (QMC) methods and applications.
-
-[comment]: <> 4. **Computational Applications**
-[comment]: <>    - Geometry optimization and energy minimization.
-[comment]: <>    - Molecular dynamics and simulation techniques.
-[comment]: <>    - Computational drug design and materials science applications.
-
-[comment]: <> 5. **Emerging Trends**
-[comment]: <>    - Machine learning in quantum chemistry.
-[comment]: <>    - Quantum computing and its potential impact on computational chemistry.
-[comment]: <>    - Sustainability in computational chemistry (e.g., reducing the carbon footprint of computations).
 
 ## How to Contribute
 
