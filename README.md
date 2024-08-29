@@ -4,8 +4,7 @@ Welcome to the **QuantumChemistryEducation** repository! This repository is a co
 
 ## Repository Contents
 
-This repository includes Jupyter Notebooks, Python scripts, and related files covering various topics in quantum and computational chemistry:
-
+This repository includes Jupyter Notebooks, Python scripts, and related files covering various topics in quantum and computational chemistry.
 
 ## How to Contribute
 
@@ -19,7 +18,7 @@ We welcome contributions from the community! If you have a notebook, script, or 
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
